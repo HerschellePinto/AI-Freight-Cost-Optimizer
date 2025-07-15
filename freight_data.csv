@@ -1,0 +1,11 @@
+source,destination,weight,priority,cost
+Mumbai,Delhi,100,high,4500
+Delhi,Bangalore,150,medium,5200
+Mumbai,Chennai,120,low,4800
+Kolkata,Mumbai,200,high,6500
+Delhi,Kolkata,180,medium,6000
+Chennai,Bangalore,90,low,4100
+Bangalore,Delhi,110,high,4700
+Mumbai,Hyderabad,140,medium,5300
+Hyderabad,Chennai,160,high,5900
+Kolkata,Hyderabad,130,low,5000
